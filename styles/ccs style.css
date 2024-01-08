@@ -1,0 +1,57 @@
+/* header section */
+.images-text{
+background-image: url(../resources/Banner\ Image.png);
+background-size: cover;
+width: 1300px;
+height: 600px;
+border-radius: 16px;
+padding: 230px 530px 300px 530px;
+}
+.h2{
+    color: #FFF;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 900px;
+}
+.h5{
+    color: #FFF;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400px;
+}
+/* 65% off section */
+.off{
+    color: #F00;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 700px;
+    padding: 50px;
+}
+.holiday{
+     color: #FF0000;
+     font-size: 25px;
+     font-weight: 600px;  
+     text-align: center;
+}
+.categories{
+    text-align: center;
+    color: #070211;
+    font-size: 55px;
+    font-weight: 750px;
+    padding: 20px 0 70px;
+}
+.new-year-photo{
+    text-align:center;
+}
+/* wellcome section */
+#id{
+    color: #FFF;
+    font-size: 70px;
+    font-weight: 800px;
+}
+.midnight-party{
+    background-image: url(../resources/Vectorrr.png);
+    background-size: cover;
+    width: 1300px;
+    height: 600px;   
+}
