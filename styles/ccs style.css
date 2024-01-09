@@ -8,13 +8,13 @@ border-radius: 16px;
 padding: 230px 530px 300px 530px;
 }
 .h2{
-    color: black;
+    color: wheat;
     text-align: center;
     font-size: 80px;
     font-weight: 900px;
 }
 .h5{
-    color: black;
+    color: wheat;
     text-align: center;
     font-size: 50px;
     font-weight: 400px;
@@ -121,12 +121,12 @@ font-weight: 500px;
 padding: 0 70px 0 0;
 }
 .Ellipse{
-    width: 700px;
-height: 700px;
+    width: 600px;
+height: 600px;
 margin: opx;
-padding:100px 600px 100px 400px;
-border-color: red;
-border: 25px;
+padding:15px;
+border-radius: 463px;
+border: 15px solid red;
 }
 .class-2024{
     color: red;
@@ -219,15 +219,12 @@ font-weight: 700px;
     font-size: 30px;
     font-weight: 200;
 }
-/* unsubscripe-section */
+/* footer-section */
 .unsubscribe-div{
     display: flex;
-    background-color: black;
-    background-size: cover;
     color: white;
 }
 .unsubscribe-haed{
-    ;
     font-size: 30px;
     font-weight: 150px;
 }
@@ -235,5 +232,20 @@ font-weight: 700px;
     font-size: 30px;
     font-weight: 150px;
 }
+.footer{
+    background-color: black;
+    background-size: cover;
+}
+.image-div{
+    text-align: center;
+    padding: 60px;
 
-
+}
+.last-div{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+font-size: 30px;
+font-weight: 500px;
+padding-bottom: 300px;
+}
