@@ -8,13 +8,13 @@ border-radius: 16px;
 padding: 230px 530px 300px 530px;
 }
 .h2{
-    color: #FFF;
+    color: black;
     text-align: center;
     font-size: 80px;
     font-weight: 900px;
 }
 .h5{
-    color: #FFF;
+    color: black;
     text-align: center;
     font-size: 50px;
     font-weight: 400px;
@@ -69,6 +69,8 @@ padding: 230px 530px 300px 530px;
     font-size: 35px;
     font-weight: 600;
     padding: 0px 160px;
+    margin: 0px;
+    border: 0px;
 }
 .Group{
 
@@ -96,7 +98,41 @@ padding: 230px 530px 300px 530px;
     padding: 15px;
 }
 /* Comming Soon 2024 section */
-
+.coming-soon{
+    background-color: white;
+    background-size: cover;
+    display: flex;
+    
+}
+.new-best-offer{
+    color: red;
+text-align: left;
+font-size: 30px;
+font-weight: 300px;
+}
+.coming{
+font-size: 55px;
+font-weight: 600px;
+}
+.coming-soon-paragraph{
+    color: black;
+font-size: 30px;
+font-weight: 500px;
+padding: 0 70px 0 0;
+}
+.Ellipse{
+    width: 700px;
+height: 700px;
+margin: opx;
+padding:100px 600px 100px 400px;
+border-color: red;
+border: 25px;
+}
+.class-2024{
+    color: red;
+font-size: 50px;
+font-weight: 700px;
+}
 /* discount section */
 .function{
     text-align: center;
@@ -110,13 +146,19 @@ padding: 230px 530px 300px 530px;
 .Rectangle{
     float: right;
     padding-right: 0;
+    background-image: url(../resources/Rectangle\ 1.png);
+    background-position: right;
+    background-size: 600px;
+    background-repeat: no-repeat;
+    height: 600px;
+    padding-right: 350px;
 }
 .Rectangle2{
-    width: 2400px;
-    height: 200px;
+    width: 2415px;
+    height: 250px;
 }
 .group75{
-    
+   
 }
 .function-haed{
  color: black;
@@ -132,7 +174,66 @@ padding: 230px 530px 300px 530px;
  font-size: 30px;
  padding: 0px 300px ;
 }
-
-
+/* GIFT section */
+.gift-section{
+    background-color: white;
+    background-size: cover;
+}
+.gift{
+    color: red;
+font-size: 30px;
+font-weight: 500px;
+}
+.portfilio{
+font-size: 50px;
+font-weight: 900px;
+}
+.gift-paragraph{
+font-size: 30px;
+font-weight: 200px;
+}
+.row{
+    width: 1000px;
+}
+.column{
+    border-radius: 20px;
+    display: flex;
+}
+.row-column{
+    padding: 30px;
+}
+/* subscribe section */
+.group61{
+    background-color: rgb(254, 214, 222);
+    background-size: cover;
+    text-align: center;
+    border-radius: 16px;
+    padding: 300px ;
+}
+.Subscribe{
+text-align: center;
+font-size: 60px;
+font-weight: 700px;
+}
+.Subscribe-paragraph{
+    font-size: 30px;
+    font-weight: 200;
+}
+/* unsubscripe-section */
+.unsubscribe-div{
+    display: flex;
+    background-color: black;
+    background-size: cover;
+    color: white;
+}
+.unsubscribe-haed{
+    ;
+    font-size: 30px;
+    font-weight: 150px;
+}
+.unsubscribe-haed{
+    font-size: 30px;
+    font-weight: 150px;
+}
 
 
