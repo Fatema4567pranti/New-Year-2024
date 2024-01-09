@@ -70,10 +70,8 @@ padding: 230px 530px 300px 530px;
     font-weight: 600;
     padding: 0px 160px;
 }
-.new-year-party.Group{
-    width: 3px;
-    height: 3px;
-    padding:
+.Group{
+
 }
 /* Place Date Time section */
 .primary-color{
@@ -98,19 +96,43 @@ padding: 230px 530px 300px 530px;
     padding: 15px;
 }
 /* Comming Soon 2024 section */
-.comming-soon-2024{
-    background-color: #FFF;
-    background-size: cover;
-    text-align: center;
-}
-.ellipse{
-    /* border-radius: 350px; */
-    /* border-color: red; */
-    /* width: 365px; */
-    /* height: 366px; */
-    
 
+/* discount section */
+.function{
+    text-align: center;
+    background-color:white;
+    background-size: cover;
 }
-.new{
-    text-align: r;
+.holiday{
+    color: red;
+    font-size: 80px;
 }
+.Rectangle{
+    float: right;
+    padding-right: 0;
+}
+.Rectangle2{
+    width: 2400px;
+    height: 200px;
+}
+.group75{
+    
+}
+.function-haed{
+ color: black;
+ font-size: 40px;
+ font-weight: 500px;
+ padding: 30px;
+}
+.function-haeder{
+    font-size: 80px;
+    font-weight: 900px;
+}
+.function-paragraph{
+ font-size: 30px;
+ padding: 0px 300px ;
+}
+
+
+
+
